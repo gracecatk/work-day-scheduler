@@ -69,3 +69,4 @@ $(function () {
         $('#currentDate').text(currentDate);
     });
   });
+  
